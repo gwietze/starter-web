@@ -18,6 +18,9 @@ This is a simple wen project, deployment can be on any web sertver or even local
 ## How to Contribute
 
 Sample website with plenty of files for demos
+Please fork this repository and the issue Pull request for review.
+
+
 ```
 This is a extra change..
 And another change..
