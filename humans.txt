@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+   Wietze Lindeboom  wietze@linsoft.nl
 
 # THANKS
 
